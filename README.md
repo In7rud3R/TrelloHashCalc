@@ -31,4 +31,4 @@ For example, if we were trying to find the 7 letter string where hash(the_string
 
 #Usage
 
-python HashCalc.py -c <hash>
+python HashCalc.py -c [hash]
