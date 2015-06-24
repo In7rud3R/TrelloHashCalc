@@ -29,4 +29,6 @@ if hash is defined by the following pseudo-code:
     
 For example, if we were trying to find the 7 letter string where hash(the_string) was 680131659347, the answer would be "leepadg".
 
+#Usage
 
+python HashCalc.py -c <hash>
