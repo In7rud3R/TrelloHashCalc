@@ -1,4 +1,4 @@
-#HashCalc by Harel Haroosh
+#HashCalc by In7rud3R
 #Calculate Trello string form hash ;) https://trello.com/jobs/developer
 #Usage : python HashCalc.py -c <hash>
  
