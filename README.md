@@ -1,7 +1,7 @@
 # TrelloHashCalc
 Calculate Trello string form hash
 
-This was a challenge to apply for a job in Trello (https://trello.com/)
+This was a challenge to apply for a job at Trello (https://trello.com/)
 
 Trello Job offering - http://www.fogcreek.com/jobs/dev/
 
